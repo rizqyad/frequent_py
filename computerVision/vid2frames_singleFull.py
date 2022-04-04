@@ -3,9 +3,9 @@ import os
 
 in_path = 'video_sources'
 out_path = 'frames_output'
-filename = 'uji-mtrl-R'
+filename = 'video_source-'
 
-videoname = "video_sources/CCTV Berbasis Kewilayahan _ Pemerintah Kota Yogyakarta 2021-08-01 06_14.mp4"
+videoname = "video_sources.mp4"
 
 print(videoname)
 
